@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+* Games
+  
+  -RPG
+  -Simulation
+  -FPS
+  -Sports
+  
+* Food
+  
+  -Lasagna
+  -Pizza
+  -Pistachios
+  -Burgers
